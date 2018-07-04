@@ -1,0 +1,1 @@
+It's demo project of larvel admin panel
